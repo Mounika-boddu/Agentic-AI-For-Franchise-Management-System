@@ -1,5 +1,4 @@
-Milestone3: RAG Knowledge Base for FranchiseOps AI
-
+# 📚 Milestone3: RAG Knowledge Base for FranchiseOps AI
 This milestone focuses on building the **Retrieval-Augmented Generation (RAG) Knowledge Base** for the FranchiseOps AI project. The objective is to collect information from trusted online resources, process the data, convert it into searchable embeddings, and create a FAISS vector database for semantic retrieval.
 
 Instead of relying only on predefined responses, the RAG pipeline enables the AI system to retrieve relevant information from a large knowledge base, making responses more accurate, contextual, and reliable.
