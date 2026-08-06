@@ -219,6 +219,16 @@ The retrieval system is evaluated using operational and compliance-related quest
 - Sentence embeddings
 - FAISS vector index
 - Successful semantic retrieval for business queries
+   # Queries
+  <img width="764" height="283" alt="Screenshot 2026-08-06 181349" src="https://github.com/user-attachments/assets/da4791f1-1b30-4b0b-9c78-d8fc66129647" />
+  # Output
+  <img width="733" height="288" alt="Screenshot 2026-08-06 181413" src="https://github.com/user-attachments/assets/edfe40c3-5479-43e5-9b79-04f7b0b2f232" />
+
+<img width="815" height="268" alt="Screenshot 2026-08-06 181430" src="https://github.com/user-attachments/assets/bff0726e-f516-499a-91de-8df4c7fe8d9d" /> 
+
+<img width="814" height="256" alt="Screenshot 2026-08-06 181510" src="https://github.com/user-attachments/assets/9a0cbb3b-8dd8-4bb0-9386-49fc8fb9c203" /> 
+
+<img width="850" height="260" alt="Screenshot 2026-08-06 181539" src="https://github.com/user-attachments/assets/31c01279-1ea6-4d60-af54-62d2ca52ff5f" />
 
 # 🎓 Learning Outcomes
 Through this milestone, the following concepts were learned:
