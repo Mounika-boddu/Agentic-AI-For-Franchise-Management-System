@@ -235,3 +235,11 @@ Through this milestone, the following concepts were learned:
 - Enable multilingual retrieval
 - Improve ranking using hybrid search
 - Deploy the RAG pipeline as a web application
+
+
+# Team Members
+- Akeera Nandan
+- Boddu Mounika
+- Divya sree Koneti
+- Gillala Sai Gouthami
+- Tazreen Rahman
