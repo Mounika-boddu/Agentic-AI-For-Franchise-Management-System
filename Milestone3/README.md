@@ -84,8 +84,9 @@ Each webpage is automatically processed by:
 - Saving cleaned content as text files
 <img width="817" height="282" alt="Screenshot 2026-08-06 180903" src="https://github.com/user-attachments/assets/c56fade3-5c3d-4405-b9a0-1440a9c29019" />
 
+<img width="805" height="297" alt="Screenshot 2026-08-06 180924" src="https://github.com/user-attachments/assets/b41a46a8-b278-4cb7-b3ae-b2a8c608588a" />
 
-
+<img width="750" height="250" alt="Screenshot 2026-08-06 180939" src="https://github.com/user-attachments/assets/d862e7e1-fdac-4260-99bd-77c95da45d5a" />
 
 ## Step 4 – Automatic PDF Discovery
 The scraper automatically scans HTML pages for embedded PDF links.
