@@ -7,7 +7,6 @@ Milestone 1 focuses on developing a secure **User Authentication Module** using 
 The application is designed to run through **Google Colab** and is made publicly accessible using **ngrok**. Sensitive credentials such as JWT secrets, ngrok authentication tokens, and Gmail App Passwords are securely stored using **Google Colab Secrets**.
 
 ---
-
 ## 🎯 Objectives
 
 The main objectives of Milestone 1 are:
@@ -288,38 +287,34 @@ Infosys Repository/
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+<img width="939" height="416" alt="Screenshot 2026-08-12 123342" src="https://github.com/user-attachments/assets/03b46ffb-06ea-44cd-bbb5-523b43223bb9" />
 
 ### Signup Page
 
-![Signup Page](screenshots/signup.png)
+<img width="935" height="414" alt="Screenshot 2026-08-12 121822" src="https://github.com/user-attachments/assets/3fa0c826-b1c7-40a9-8e95-3c9be3683f8d" />
+
+<img width="938" height="413" alt="Screenshot 2026-08-12 121845" src="https://github.com/user-attachments/assets/b8c2f82c-bb81-453c-9449-b0ddb1496cf5" />
 
 ### Forgot Password — Security Question
 
-![Forgot Password Security Question](screenshots/forgot_password_security.png)
+<img width="943" height="423" alt="Screenshot 2026-08-12 125838" src="https://github.com/user-attachments/assets/b53d5299-a6bb-4003-a9cb-301c9175c05a" />
+
 
 ### Forgot Password — OTP
 
-![Forgot Password OTP](screenshots/forgot_password_otp.png)
-
-### OTP Email
-
-![OTP Email](screenshots/otp_email.png)
+<img width="917" height="402" alt="Screenshot 2026-08-12 123623" src="https://github.com/user-attachments/assets/6d25225b-9e63-4287-ac06-184b578c09fc" />
 
 ### User Dashboard
 
-![User Dashboard](screenshots/user_dashboard.png)
+<img width="935" height="424" alt="Screenshot 2026-08-12 122014" src="https://github.com/user-attachments/assets/022506c3-72ec-4b35-a787-5c2f458ee00b" />
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
----
+<img width="941" height="425" alt="Screenshot 2026-08-12 121718" src="https://github.com/user-attachments/assets/0eefad66-1259-414e-a8a2-608978414cc3" />
 
 ## 🔍 Security Checklist
 
 Before uploading the notebook to GitHub:
-
 * Remove all hard-coded email addresses where applicable.
 * Remove Gmail App Passwords.
 * Remove ngrok authentication tokens.
@@ -328,8 +323,6 @@ Before uploading the notebook to GitHub:
 * Clear all notebook outputs.
 * Make sure no OTPs or private credentials are visible.
 * Confirm that sensitive values are retrieved only through Colab Secrets.
-
----
 
 ## ✅ Milestone 1 Completion Checklist
 
@@ -352,7 +345,6 @@ Before uploading the notebook to GitHub:
 * [x] Screenshots added
 * [x] Sensitive information removed before repository upload
 
----
 
 ## 🏁 Conclusion
 
