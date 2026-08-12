@@ -1,11 +1,5 @@
 # Milestone 1 — User Authentication Module
 
-## 📌 Project Overview
-
-Milestone 1 focuses on developing a secure **User Authentication Module** using Streamlit. The application provides user registration, login, password recovery, JWT-based session management, OTP email verification, and an Admin Dashboard for managing registered users.
-
-The application is designed to run through **Google Colab** and is made publicly accessible using **ngrok**. Sensitive credentials such as JWT secrets, ngrok authentication tokens, and Gmail App Passwords are securely stored using **Google Colab Secrets**.
-
 ---
 ## 🎯 Objectives
 
@@ -146,10 +140,6 @@ The email must follow the required format, with:
 * At least 2 letters between `@` and the final dot.
 * At least 2 letters after the final dot.
 
-Example:
-
-`ab@cd.ef`
-
 ### Password Validation
 
 Passwords must contain:
@@ -195,18 +185,6 @@ Notebook access is enabled for these secrets so that the application can securel
 
 ---
 
-## 🌐 ngrok Configuration
-
-ngrok is used to expose the Streamlit application running in Google Colab through a public URL.
-
-The ngrok authentication token is stored securely as:
-
-`NGROK_AUTHTOKEN`
-
-The token is retrieved from Colab Secrets instead of being written directly inside the notebook.
-
----
-
 ## 📧 Gmail OTP Configuration
 
 The application uses a Gmail App Password to send OTP emails for password recovery.
@@ -219,45 +197,6 @@ The Gmail credentials are stored securely in Colab Secrets:
 * `EMAIL_PASSWORD`
 
 The actual email password is never stored in the repository.
-
----
-
-## ▶️ How to Run the Application
-
-### Step 1 — Open the Notebook
-
-Open the Milestone 1 notebook in Google Colab.
-
-### Step 2 — Configure Colab Secrets
-
-Add the required secrets:
-
-```text
-JWT_SECRET
-NGROK_AUTHTOKEN
-EMAIL_PASSWORD
-EMAIL_ADDRESS
-```
-
-Enable notebook access for each secret.
-
-### Step 3 — Run the Notebook
-
-Run the notebook cells from top to bottom.
-
-The application will start the Streamlit server and create an ngrok public URL.
-
-### Step 4 — Open the Application
-
-Open the generated ngrok URL in a browser.
-
-From the application, users can access:
-
-* Login
-* Signup
-* Forgot Password
-* User Dashboard
-* Admin Dashboard
 
 ---
 
