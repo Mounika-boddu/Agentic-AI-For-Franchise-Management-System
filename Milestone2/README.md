@@ -268,51 +268,37 @@ Log in using valid credentials.
 # Screenshots
 
 ## Home Page
-
 Displays the main dashboard after successful login.
 
-![Home Page](screenshots/home_page.png)
+<img width="944" height="428" alt="Home page" src="https://github.com/user-attachments/assets/eab48f87-60ec-4d2f-a3f9-bd61337cbcd9" />
 
 ---
 
 ## AI Copilot
-
 Shows the prompt entered by the user and the AI-generated response.
+<img width="943" height="423" alt="AI Copilot" src="https://github.com/user-attachments/assets/64bdf07d-2eeb-4b98-b87f-308052fa32f8" />
 
-![AI Copilot](screenshots/ai_copilot.png)
 
 ## Weather Demo
-
 Shows the city entered and its weather details.
+<img width="932" height="421" alt="Weather Demo" src="https://github.com/user-attachments/assets/0523ef25-6a51-4782-9426-5bf92a325a03" />
 
-![Weather Demo](screenshots/weather_demo.png)
 
 ## Outlet Tiers
-
 Displays the K-Means clustering chart with four outlet tiers.
+<img width="932" height="383" alt="Outlet Tiers Page" src="https://github.com/user-attachments/assets/c811151e-ba89-4363-ab98-0723d5390123" />
 
-![Outlet Tiers](screenshots/outlet_tiers.png)
-
-## ML Model Card
-
-Displays Machine Learning metrics for all three agents and K-Means clustering.
-
-![ML Model Card](screenshots/ml_model_card.png)
 
 ## Admin User Management
-
 Shows Add User, Delete User, and Unlock User features.
-
-![Admin Panel](screenshots/admin_actions.png)
+<img width="245" height="448" alt="Admin Panel(3 agents&#39;s metrics)" src="https://github.com/user-attachments/assets/e227baee-c48d-4d7a-bb46-1cf24f04d8b7" />
 
 ## Account Lock / OTP Cooldown
-
 Displays account lock or OTP cooldown functionality.
+<img width="952" height="437" alt="otp" src="https://github.com/user-attachments/assets/8e2c0588-695b-4b9c-b17c-d34b29cb9fd5" />
 
-![Lockout](screenshots/lockout_message.png)
 
 # Future Enhancements
-
 - Mobile application support
 - Cloud database integration
 - Advanced AI chatbot
