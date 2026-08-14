@@ -82,6 +82,11 @@ Each webpage is automatically processed by:
 - Removing unnecessary tags
 - Extracting meaningful text
 - Saving cleaned content as text files
+  <img width="817" height="282" alt="Screenshot 2026-08-06 180903" src="https://github.com/user-attachments/assets/c2fd6b7a-bdd0-410a-a84c-499feac52d87" />
+
+  <img width="805" height="297" alt="Screenshot 2026-08-06 180924" src="https://github.com/user-attachments/assets/dbc61f80-306c-4baa-b795-0e126d11fff7" />
+
+  <img width="750" height="250" alt="Screenshot 2026-08-06 180939" src="https://github.com/user-attachments/assets/d248cd53-5956-4e7b-9d1c-96cf7746e738" />
 
 ## Step 4 – Automatic PDF Discovery
 The scraper automatically scans HTML pages for embedded PDF links.
@@ -214,6 +219,14 @@ The retrieval system is evaluated using operational and compliance-related quest
 - Sentence embeddings
 - FAISS vector index
 - Successful semantic retrieval for business queries
+# Queries
+<img width="764" height="283" alt="Screenshot 2026-08-06 181349" src="https://github.com/user-attachments/assets/a8402730-d477-47df-b9b2-6e6f394911b7" />
+
+# Answers
+<img width="733" height="288" alt="Screenshot 2026-08-06 181413" src="https://github.com/user-attachments/assets/48cdbb2c-d40f-4b14-b362-ca1d1cfa6eb9" />
+<img width="815" height="268" alt="Screenshot 2026-08-06 181430" src="https://github.com/user-attachments/assets/76e76329-e359-48b6-888e-53b2e92989b7" />
+<img width="814" height="256" alt="Screenshot 2026-08-06 181510" src="https://github.com/user-attachments/assets/2361aabe-e740-4ba3-aa87-b5a773df0be1" />
+<img width="850" height="260" alt="Screenshot 2026-08-06 181539" src="https://github.com/user-attachments/assets/3fb4d5e7-40ff-461a-bafa-d7acae14e3f8" />
 
 # 🎓 Learning Outcomes
 Through this milestone, the following concepts were learned:
