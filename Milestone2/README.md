@@ -239,32 +239,6 @@ Milestone2/
 
 ---
 
-# How to Run the Project
-
-Step 1
-
-Clone the repository.
-
-Step 2
-
-Install the required libraries.
-
-pip install -r requirements.txt
-
-Step 3
-
-Run the Streamlit application.
-
-streamlit run app.py
-
-Step 4
-
-Open the generated Streamlit URL.
-
-Step 5
-
-Log in using valid credentials.
-
 # Screenshots
 
 ## Home Page
