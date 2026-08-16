@@ -45,7 +45,7 @@
 | **[Shivaram Ponnam]** | **[AI/ML Model Development]**     | **[@github-handle]** |
 | **[Kuldeepreddy]** | **[Admin Dashboard & Data Feed Center]**     | **[@github-handle]** |
 | **[Roshini Rajput]** | **[UI/Fronted Development]**     | **[@github-handle]** |
-| **[Bhavya Sree]** | **[Authentication and Login Module]**     | **[bhavyasreegujjula]** |
+| **[Bhavya Sree]** | **[Authentication and Login Module]**     | **[@bhavyasreegujjula]** |
 | **[Boddu Mounika]** | **[System Integration & Analytics]**     | **[@Mounika-boddu]** |
 
 
