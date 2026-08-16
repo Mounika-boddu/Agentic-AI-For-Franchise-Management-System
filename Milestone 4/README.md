@@ -108,10 +108,8 @@ The project follows a layered architecture:
 ### Architecture Diagram
 
 The final repository should contain the exported architecture image here:
+<img width="1536" height="1024" alt="Image Aug 17, 2026, 12_56_35 AM" src="https://github.com/user-attachments/assets/57617161-61d4-48f0-94b5-b7a770d33f69" />
 
-![Architecture](docs/architecture-diagram.png)
-
-> **Required:** Export the architecture diagram as `docs/architecture-diagram.png` before final submission.
 
 ---
 
