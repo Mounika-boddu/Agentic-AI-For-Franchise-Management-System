@@ -35,17 +35,17 @@
 
 | Name                   | Designation              |
 | ---------------------- | ------------------------ |
-| **[Mohamedsipli M]** | **[Infosys Springboard Mentor]** |
+| **Mohamedsipli M** | **Infosys Springboard Mentor** |
 
 ### Team Members
 
 | Name                | Role / What They Built | GitHub Handle        |
 | ------------------- | ---------------------- | -------------------- |
-| **[Shivaram Ponnam]** | **[AI/ML Model Development]**     | **[@github-handle]** |
-| **[Kuldeepreddy]** | **[Admin Dashboard & Data Feed Center]**     | **[@github-handle]** |
-| **[Roshini Rajput]** | **[UI/Fronted Development]**     | **[@github-handle]** |
-| **[Bhavya Sree]** | **[Authentication and Login Module]**     | **[@bhavyasreegujjula]** |
-| **[Boddu Mounika]** | **[System Integration & Analytics]**     | **[@Mounika-boddu]** |
+| **Shivaram Ponnam** | **AI/ML Model Development**     | **@github-handle** |
+| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@github-handle** |
+| **Roshini Rajput** | **UI/Fronted Development**     | **@github-handle** |
+| **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
+| **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
 
 
 # Overall Project Explanation
@@ -1188,7 +1188,7 @@ Do not rely on deleting the visible line after committing it. If credentials wer
 
 We sincerely thank **Infosys Springboard** for providing the internship opportunity, learning environment and project platform.
 
-We also thank our mentor **[MENTOR FULL NAME]**, **[MENTOR DESIGNATION]**, for guidance, technical feedback and continuous support throughout the project.
+We also thank our mentor **Mohamedsipli M**, **Infosys Springboard Mentor**, for guidance, technical feedback and continuous support throughout the project.
 
 ---
 
