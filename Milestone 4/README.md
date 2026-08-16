@@ -22,7 +22,6 @@
 * [Demo Video](#demo-video)
 * [Known Limitations & Future Scope](#known-limitations--future-scope)
 * [Acknowledgements](#acknowledgements)
-* [Final Pre-Submission Checklist](#final-pre-submission-checklist)
 
 ---
 
@@ -928,6 +927,12 @@ Recommended location:
 
 
 
+https://github.com/user-attachments/assets/d8e05e07-5ac2-4571-a000-efdb39c2cf2c
+
+
+
+
+
 
 
 
@@ -1187,58 +1192,6 @@ We also thank our mentor **[MENTOR FULL NAME]**, **[MENTOR DESIGNATION]**, for g
 
 ---
 
-# Final Pre-Submission Checklist
-
-Before submitting the repository, verify every item below.
-
-* [ ] Root-level `README.md` exists.
-* [ ] README is not inside a milestone folder.
-* [ ] Full project title is present.
-* [ ] Codename `FranchiseOps AI` is present.
-* [ ] Infosys Springboard Internship — Batch 1 is mentioned.
-* [ ] Mentor's correct full name and designation are added.
-* [ ] Final team members and GitHub handles are added.
-* [ ] Architecture diagram is saved as `docs/architecture-diagram.png`.
-* [ ] Architecture image is embedded in README.
-* [ ] All 9 agents are documented.
-* [ ] Each agent lists its business function.
-* [ ] Each agent lists its data source.
-* [ ] Each agent lists its model comparison.
-* [ ] Best model and selection metric are documented.
-* [ ] Each agent's outputs/charts are documented.
-* [ ] Authentication flow is documented.
-* [ ] OTP flow is documented.
-* [ ] RBAC roles are documented.
-* [ ] Admin Dashboard is documented.
-* [ ] Login screenshot is added.
-* [ ] Dashboard screenshot is added.
-* [ ] Agent screenshot is added.
-* [ ] AI Copilot screenshot is added.
-* [ ] Admin Dashboard screenshot is added.
-* [ ] OTP screenshot is added.
-* [ ] `requirements.txt` is present.
-* [ ] `requirements.txt` uses pinned versions.
-* [ ] Requirements have been tested in a clean virtual environment.
-* [ ] `.env.example` is present.
-* [ ] `.env` is included in `.gitignore`.
-* [ ] Database files are included in `.gitignore`.
-* [ ] `__pycache__/` is included in `.gitignore`.
-* [ ] `.ipynb_checkpoints/` is included in `.gitignore`.
-* [ ] No real passwords are committed.
-* [ ] No Hugging Face tokens are committed.
-* [ ] No Gmail App Password is committed.
-* [ ] No API keys are committed.
-* [ ] No real personal data is committed.
-* [ ] Demo uses a dummy account.
-* [ ] Demo video is 2–5 minutes.
-* [ ] Demo video is silent or uses optional background music.
-* [ ] Demo video is below GitHub's file-size limit or externally linked.
-* [ ] Admin Dashboard is shown in the demo.
-* [ ] OTP/password-recovery flow is shown in the demo.
-* [ ] Known limitations are documented.
-* [ ] Future scope is documented.
-
----
 
 # FranchiseOps AI
 
