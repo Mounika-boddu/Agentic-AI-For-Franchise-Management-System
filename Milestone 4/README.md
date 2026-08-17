@@ -41,9 +41,10 @@
 
 | Name                | Role / What They Built | GitHub Handle        |
 | ------------------- | ---------------------- | -------------------- |
-| **Shivaram Ponnam** | **AI/ML Model Development**     | **@github-handle** |
-| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@github-handle** |
-| **Roshini Rajput** | **UI/Fronted Development**     | **@github-handle** |
+| **Shivaram Ponnam** | **AI/ML Model Development**     | **@ShivaramPonnam** |
+| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@Kuladeepreddy** |
+| **Roshini Rajput** | **UI/Fronted Development**     | **<img width="1912" height="888" alt="636877613-969c2ff3-a29f-4a84-9c7d-7604b86c288b" src="https://github.com/user-attachments/assets/cb3bf658-d8ac-447b-b2ff-ada627080c00" />
+@roshanirr2006-wq** |
 | **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
 | **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
 
@@ -184,6 +185,9 @@ Agent 9 allows users to upload PDF, TXT and Markdown documents and search their 
 
 ## Agent 1 — Workforce & Retention Intelligence
 
+<img width="1912" height="888" alt="636877613-969c2ff3-a29f-4a84-9c7d-7604b86c288b" src="https://github.com/user-attachments/assets/b22ab7fb-6ab3-4538-a93c-d26fb386f66f" />
+
+
 **Business function:** Employee workforce analysis and attrition-risk monitoring.
 
 The agent reads from the `staff` table and analyses employee salary, overtime, job satisfaction, role and predicted attrition probability.
@@ -229,6 +233,9 @@ staff
 
 ## Agent 2 — Outlet Expansion & Revenue Analytics
 
+<img width="1906" height="910" alt="636877995-3962113c-52c0-4831-93e9-58ce5f5bae88" src="https://github.com/user-attachments/assets/2594dd74-90aa-4b5b-804e-5bc1e8fb3afa" />
+
+
 **Business function:** Franchise outlet performance, revenue and margin analysis.
 
 The agent reads from the `outlets` table and calculates revenue, operating costs, customer satisfaction and net margin.
@@ -270,6 +277,9 @@ outlets
 ---
 
 ## Agent 3 — Inventory & Supply Chain Safety Stock Intelligence
+
+<img width="1912" height="917" alt="636882578-7e0f7d54-b4d4-41d3-8681-4624e8fcc31c" src="https://github.com/user-attachments/assets/15da7018-7366-4393-84e4-e46740550edd" />
+
 
 **Business function:** Inventory monitoring, stockout-risk analysis and safety-stock planning.
 
@@ -313,6 +323,9 @@ inventory
 
 ## Agent 4 — Marketing AI & Campaign Intelligence
 
+<img width="1902" height="903" alt="636884080-0616d155-c6ef-4453-ba2f-1c5f449ef1b6" src="https://github.com/user-attachments/assets/7dfba81c-b987-459f-b690-e66d3044dbf9" />
+
+
 **Business function:** Marketing campaign performance, ROI and customer-acquisition analysis.
 
 The agent reads from the `marketing` table and calculates campaign-level CAC using budget and conversions.
@@ -353,6 +366,11 @@ marketing
 ---
 
 ## Agent 5 — Customer Sentiment & Feedback Analytics
+
+<img width="1880" height="791" alt="636884762-a600b5b8-e264-48f9-b961-8c60adaf58fd" src="https://github.com/user-attachments/assets/ce772ff9-f0dd-43cb-8ac4-35b0c0d0678e" />
+
+<img width="1917" height="867" alt="636884906-09ffd678-d614-4f5c-9ac0-9dabacf39b91" src="https://github.com/user-attachments/assets/cb715fd7-f334-413a-8c03-4662e9371532" />
+
 
 **Business function:** Customer feedback, sentiment and service-quality analysis.
 
@@ -398,6 +416,9 @@ feedback
 
 ## Agent 6 — Audit, Compliance & FSSAI Safety Intelligence
 
+<img width="1917" height="906" alt="636885289-d972dfdc-954a-40b6-ae9e-5d3a22d1b4a8" src="https://github.com/user-attachments/assets/b1c22ab3-4044-4478-8302-5f7cbe92f97a" />
+
+
 **Business function:** Audit monitoring, compliance analysis and anomaly detection.
 
 The agent reads from the `audits` table and provides compliance analysis and FSSAI-related checks.
@@ -440,6 +461,9 @@ audits
 
 ## Agent 7 — Executive Franchise Intelligence Digest
 
+<img width="1917" height="860" alt="636886113-b7b254dd-41ff-4693-af0b-b8f8aeb30fb5" src="https://github.com/user-attachments/assets/82fa57cd-af45-4035-928d-95e07b15fde9" />
+
+
 **Business function:** Network-wide executive summary.
 
 Agent 7 combines information from the main operational datasets.
@@ -477,6 +501,9 @@ Agent 7 does not introduce a separate classical ML benchmark. It consumes output
 
 ## Agent 8 — Multilingual SOP Translation
 
+
+<img width="1897" height="867" alt="636886309-a5d4417c-d342-43a1-ac1a-722a1a15407f" src="https://github.com/user-attachments/assets/8b090a02-413f-43a8-b500-3eeb3d2dfe14" />
+
 **Business function:** Translate franchise SOPs, policies and operational text.
 
 The application uses:
@@ -499,6 +526,10 @@ Agent 8 uses NLLB-200 rather than a classical classification/regression benchmar
 ---
 
 ## Agent 9 — PDF SOP & Franchise Agreement RAG Studio
+
+
+<img width="1917" height="906" alt="636886590-9a3a1495-7502-4723-ba7d-d8ef8782b389" src="https://github.com/user-attachments/assets/917993cb-ff30-491d-94dc-d7d47f45d83f" />
+
 
 **Business function:** Document upload and document-grounded information retrieval.
 
