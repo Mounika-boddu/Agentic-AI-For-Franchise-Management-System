@@ -285,6 +285,6 @@ Before uploading the notebook to GitHub:
 * [x] Sensitive information removed before repository upload
 
 
-## 🏁 Conclusion
+## Conclusion
 
 Milestone 1 successfully implements a complete authentication gateway using **Streamlit, JWT, ngrok, Gmail OTP, and Google Colab Secrets**. The module provides secure user registration, authentication, password recovery, session management, and separate user and administrator dashboards while keeping sensitive credentials protected.
