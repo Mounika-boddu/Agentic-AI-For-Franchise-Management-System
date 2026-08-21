@@ -42,7 +42,7 @@
 | Name                | Role / What They Built | GitHub Handle        |
 | ------------------- | ---------------------- | -------------------- |
 | **Shivaram Ponnam** | **AI/ML Model Development**     | **@ShivaramPonnam** |
-| **Kuldeepreddy** | **Admin Dashboard & Data Feed Center**     | **@Kuladeepreddy** |
+| **Kuladeepreddy** | **Admin Dashboard & Data Feed Center**     | **@Kuladeepreddy** |
 | **Roshini Rajput** | **UI/Fronted Development**     | **@roshanirr2006-wq** |
 | **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
 | **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
