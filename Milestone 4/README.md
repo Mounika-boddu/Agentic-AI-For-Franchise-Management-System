@@ -43,7 +43,7 @@
 | ------------------- | ---------------------- | -------------------- |
 | **Shivaram Ponnam** | **AI/ML Model Development**     | **@ShivaramPonnam** |
 | **Kuladeepreddy** | **Admin Dashboard & Data Feed Center**     | **@Kuladeepreddy** |
-| **Roshini Rajput** | **UI/Fronted Development**     | **@roshanirr2006-wq** |
+| **Roshani Rajput** | **UI/Fronted Development**     | **@roshanirr2006-wq** |
 | **Bhavya Sree** | **Authentication and Login Module**     | **@bhavyasreegujjula** |
 | **Boddu Mounika** | **System Integration & Analytics**     | **@Mounika-boddu** |
 
